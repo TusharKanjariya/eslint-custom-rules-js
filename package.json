@@ -1,5 +1,5 @@
 {
-  "name": "eslint-custom-rules",
+  "name": "eslint-custom-rules-js",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
