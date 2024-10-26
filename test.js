@@ -1,13 +1,13 @@
 function test() {
-    console.log("Not Helper Function");
-
+    // console.log("Not Helper Function");
 }
 
-const my_variable = 5;
+const myVariable = 5;
 const helperFunction = () => {
-    console.log("Helper Function");
+    myVariable
+    // console.log("Helper Function");
 };
 
-console.log(my_variable);
+// console.log(my_variable);
 helperFunction();
 test();
